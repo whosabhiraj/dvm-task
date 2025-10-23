@@ -1,11 +1,11 @@
-station_id,name
-S1, station1
-S2, station2
-S3, station3
-S4, station4
-S5, station5
-S6, station6
-S7, station7
-S8, station8
-S9, station9
-S10, station10
+station_id,name,line
+S1,station1,red
+S2,station2,red
+S3,station3,red
+S4,station4,red
+S5,station5,red
+S6,station6,red
+S7,station7,red
+S8,station8,red
+S9,station9,red
+S10,station10,red
